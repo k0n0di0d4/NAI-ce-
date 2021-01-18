@@ -1,0 +1,4 @@
+﻿  Neurons.cpp
+C:\Users\Toshiba\source\repos\NAI_NEUROGENESIS\NAI_NEUROGENESIS\Neurons.cpp(52,90): error C2664: 'double Neuron::TLU(double,std::vector<double,std::allocator<double>>,std::vector<bool,std::allocator<bool>>,double (__cdecl *)(std::vector<double,std::allocator<double>>,std::vector<bool,std::allocator<bool>>))': cannot convert argument 4 from 'double' to 'double (__cdecl *)(std::vector<double,std::allocator<double>>,std::vector<bool,std::allocator<bool>>)'
+C:\Users\Toshiba\source\repos\NAI_NEUROGENESIS\NAI_NEUROGENESIS\Neurons.cpp(52,73): message : There is no context in which this conversion is possible
+C:\Users\Toshiba\source\repos\NAI_NEUROGENESIS\NAI_NEUROGENESIS\Neurons.cpp(37,9): message : see declaration of 'Neuron::TLU'
